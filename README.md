@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @domitdot but actually this is a bot account 
+- 👋 Hi, I’m @domitdot but actually this is not a very active account
 - 👀 I’m interested in learning to type for the first time.
 - 🌱 I’m currently learning what the buttons on the keyboard do.
 - 💞️ I’m looking to collaborate on type theory, button dynamics, piezovoltaic conducers.
